@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    margin-inline: auto;
+}
+
+table tr:nth-child(1){
+    font-weight: bold;
+}
