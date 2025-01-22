@@ -7,7 +7,6 @@ This repository hosts all my labs, practicals, and experimental projects created
 - [Introduction](#introduction)
 - [Projects](#projects)
 - [How to Clone This Repo](#how-to-clone-this-repo)
-- [How to Use This Repo](#how-to-use-this-repo)
 
 ## Introduction
 
