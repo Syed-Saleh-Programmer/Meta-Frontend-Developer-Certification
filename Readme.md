@@ -10,7 +10,7 @@ Welcome to my repository for the Meta Frontend Developer Specialization course. 
 
 This section contains all the major projects completed during the course.
 
-1. [Restaurant Menu Website]([https://html-and-bootstrap.netlify.app/])
+1. [Restaurant Menu Website](https://html-and-bootstrap.netlify.app/)
 2. [Project 2](./projects/project2)
 3. [Project 3](./projects/project3)
 
