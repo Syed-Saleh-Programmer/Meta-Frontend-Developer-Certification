@@ -2,12 +2,6 @@
 
 This repository hosts all my labs, practicals, and experimental projects created for the **Meta Frontend Developer Specialization** course on Coursera.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Projects](#projects)
-- [How to Clone This Repo](#how-to-clone-this-repo)
-
 ## Introduction
 
 Welcome to my repository for the Meta Frontend Developer Specialization course. Here, you will find various projects and labs that I have worked on throughout the course.
@@ -16,7 +10,7 @@ Welcome to my repository for the Meta Frontend Developer Specialization course. 
 
 This section contains all the major projects completed during the course.
 
-1. [Project 1](./projects/project1)
+1. [Restaurant Menu Website](https://html-and-bootstrap.netlify.app/)
 2. [Project 2](./projects/project2)
 3. [Project 3](./projects/project3)
 
